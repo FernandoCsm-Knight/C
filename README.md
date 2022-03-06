@@ -1,2 +1,2 @@
 # C
-Esse repositório apresenta uma série de exercícios resolvidos sobre as linguagens C / C++
+Esse repositório apresenta uma série de exercícios resolvidos e programas feitos nas linguagens C / C++
