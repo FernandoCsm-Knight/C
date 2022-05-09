@@ -1,8 +1,11 @@
-1. Pesquisa: Time preferido pela turma. 
+
+# Lista 05
+
+**1.** Pesquisa: Time preferido pela turma. 
 Considere uma turma com N alunos, sendo N um valor lido. Domínio: 0 ..70 alunos. 
 Para cada aluno, ler: 
   Time. Domínio: A, C, O (A=atlético, C=cruzeiro, O=outros) 
- Calcular e escrever o percentual de alunos que torcem para cada um dos dois times, bem como 
+  Calcular e escrever o percentual de alunos que torcem para cada um dos dois times, bem como 
 o percentual dos que torcem para outros times. 
 • Analise a estrutura de repetição mais adequada para cada caso. Escolha de forma que 
 nenhum time seja lido caso o número de alunos da turma seja igual a zero. 
@@ -10,7 +13,7 @@ nenhum time seja lido caso o número de alunos da turma seja igual a zero.
 • Utilize o recurso para converter a resposta do usuário para maiúsculo ou minúsculo (à sua 
 escolha) 
  
-2. Pesquisa: Perfil da turma 
+**2.** Pesquisa: Perfil da turma 
 Considere uma turma com um número indeterminado de alunos. 
 Para cada aluno, ler a nota obtida em uma prova. Domínio: 0 .. 100 
 Calcular e escrever: 
@@ -22,7 +25,7 @@ nenhuma nota seja lida quando informada uma nota igual a -1. Lembre-se que deve 
 considerada a possibilidade de a flag ser o primeiro valor lido. 
 • Rejeitar a leitura de dados inválidos, isto é, fora do domínio de cada dado 
 
-3. O D.A. (Diretório Acadêmico) da Ciência da Computação realizou a eleição para sua nova 
+**3.** O D.A. (Diretório Acadêmico) da Ciência da Computação realizou a eleição para sua nova 
 Diretoria. Foram inscritas duas chapas. Construa um programa que leia os votos de cada aluno 
 do Curso e anuncie a chapa vencedora. Para isto, para cada aluno, deverá ser apresentado um 
 menu com as seguintes funcionalidades: 
@@ -37,7 +40,7 @@ ela obteve. Caso ocorra empate das chapas, exibir uma mensagem comunicando o fat
 • Caso seja lido um valor fora do domínio da opção do menu, deverá ser exibida uma 
 mensagem de alerta ao usuário e repetir a leitura. 
   
-4. Construa um programa que permita identificar o perfil da turma: 
+**4.** Construa um programa que permita identificar o perfil da turma: 
 - Percentual de homens e de mulheres. 
 - Percentual de alunos maiores em idade. 
 - Idade da pessoa mais velha. 
@@ -48,3 +51,8 @@ Idade: 0 ..90
 * Deverão ser rejeitados os valores lidos fora do domínio 
 * O número de alunos da turma deverá ser um valor lido 
  
+**5.** Utilizando a estrutura de repetição "for", resolva:
+
+A) S = 2 + 5 + 8 + 11 + ... Até o decimo termo.
+
+B) S = 1/1 + 1/10 + 1/100 + ... Até o enésimo termo sendo N um valor lido.

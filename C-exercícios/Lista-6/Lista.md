@@ -1,3 +1,6 @@
+
+# Lista 06
+
 **1.** Calcular e escreve o valor de H, sendo H igual a:
 H = 1/100 + 1/97 + 1/94 + 1/91 + ...
 A precisão de H (o número de termos) deverá ser um valor lido.
